@@ -33,3 +33,10 @@ input:-webkit-autofill:focus {
 .katex-display {
   overflow: auto hidden;
 }
+
+.title {
+  background: linear-gradient(to right, orange,#10b981);
+  -webkit-background-clip: text;
+  color: transparent;
+  display: inline-block;
+}
