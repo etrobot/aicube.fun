@@ -22,12 +22,12 @@ export default function Home({ posts }) {
           <h1
             className="title mb-8 text-4xl font-extrabold leading-tight text-dark-grey-900 lg:text-5xl xl:w-11/12 xl:text-6xl"
           >
-            World's first langchain.js desktop app
+            Langchain.js desktop app @Multi-Agent
           </h1>
           <p
             className="mb-10 text-base font-medium leading-7 text-dark-grey-600 xl:w-3/4"
           >
-            combines the power of Next.js for frontend development, Langchain.js for AI processing, and Tauri for packaging the application as a desktop app.
+            combines the power of Next.js for frontend development, Langchain.js for AI processing, and Tauri for packaging the application as the desktop app.
           </p>
         </div>
         <div className="col-span-1 items-center justify-end lg:flex">
